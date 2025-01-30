@@ -11,3 +11,9 @@ const layout = "default";
     <NuxtPage />
   </NuxtLayout>
 </template>
+
+<style>
+body {
+  @apply st-font-primary st-text-primary-100;
+}
+</style>

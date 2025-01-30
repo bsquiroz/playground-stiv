@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: [
     "~/assets/css/styles.css",
-    "~/node_modules/@arreglatech/alil-stiv/dist/transversal-design-system-stiv.css",
+    "~/node_modules/@arreglatech/design-system/dist/transversal-design-system.css",
   ],
   postcss: {
     plugins: {

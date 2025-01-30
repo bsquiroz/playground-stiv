@@ -10,7 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@arreglatech/alil-stiv": "/Users/stivenquiroz/quetzal/design-system/lib-stiv",
     "@arreglatech/design-system": "/Users/stivenquiroz/quetzal/design-system/devops-alil-transversal-design-system",
     "nuxt": "^3.15.2",
     "vue": "latest",
